@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DAjXYsJbh3nT4oa1MS76ywP3fSgGpGtFRwbrDx+bjNOPvkTrGqkPdSa9AfXyRI+kaO1cRp9/duldVFuYl1nlqQ==",
+  "success": true,
+  "projectFilePath": "C:\\WORK\\GroceryStoreAPI\\GroceryStoreAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\e1075547\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
